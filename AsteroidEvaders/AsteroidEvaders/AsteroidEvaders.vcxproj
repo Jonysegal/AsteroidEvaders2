@@ -22,10 +22,6 @@
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{F011FE2F-3E79-434D-B5D9-DAF0EACB0E8B}</ProjectGuid>
     <RootNamespace>AsteroidEvaders</RootNamespace>
-<<<<<<< HEAD
-    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
-=======
->>>>>>> parent of b617ef3... Merge pull request #3 from ben-humphries/master
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
